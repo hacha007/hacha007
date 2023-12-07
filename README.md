@@ -6,6 +6,6 @@
 
 
 
-linkedin ====> https://www.linkedin.com/in/hachembrahimi/
+linkedin: https://www.linkedin.com/in/hachembrahimi/
 
 
